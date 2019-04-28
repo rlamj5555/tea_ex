@@ -2,15 +2,15 @@
 @import url(http://ts.daumcdn.net/custom/blog/0/606/skin/images/nanumgothic.css);
 
 #wrap{ width: 1800px; text-align: center;margin: 0 auto; font-family: '함초롬돋움';}
-#wrap>img.ex{width: 100%; margin: 0 auto;}
+#wrap>img.ex{width: 80%; margin: 0 auto;}
 div.main_box{margin-top: 100px; margin-left: 300px; }
 img.prof{position: relative; display: block; padding: 10px; border: 1px solid grey;}
 
 div.main_left{;}
-ul{padding: 40px 20px 80px 40px; display: inline-block; float: right;  position: relative; top: -500px; left: -400px; font-size: 28px; line-height: 36px; font-weight: 500; border-left: 1px solid grey; text-align: left;}
+ul{padding: 40px 20px 80px 80px; display: inline-block; float: right;  position: relative; top: -500px; left: -300px; font-size: 28px; line-height: 36px; font-weight: 500; border-left: 1px solid grey; text-align: left;}
 li:first-child{font-weight: 800; font-family: "바탕체";font-size: 36px; margin-bottom: 150px;}
 li:last-child{font-family: "궁서"; font-size: 22px; font-weight: 700; padding-top: 20px;}
-div.btn{ margin-left: 250px; position: relative; top: -80px; left: 250px; display: inline-block; }
+div.btn{ margin-left: 250px; position: relative; top: -80px; left: 380px; display: inline-block; }
 button{width: 250px; height: 80px;margin-right: 10px;background-color: firebrick; color: aliceblue; font-size: 25px;}
 
 a>button:hover{background-color: indianred; }
