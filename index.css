@@ -11,7 +11,7 @@ ul{padding: 40px 20px 80px 80px; display: inline-block; float: right;  position:
 li:first-child{font-weight: 800; font-family: "바탕체";font-size: 36px; margin-bottom: 150px;}
 li:last-child{font-family: "궁서"; font-size: 22px; font-weight: 700; padding-top: 20px;}
 div.btn{ margin-left: 250px; position: relative; top: -80px; left: 380px; display: inline-block; }
-button{width: 250px; height: 80px;margin-right: 10px;background-color: firebrick; color: aliceblue; font-size: 25px;}
+button{width: 250px; height: 80px;margin-right: 10px;background-color: firebrick; color: aliceblue; font-size: 25px; border: transparent;}
 
 a>button:hover{background-color: indianred; }
 
